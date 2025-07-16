@@ -1,3 +1,6 @@
 name: Saswat Panda
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+url: saswat.github.io
+enforce_ssl: saswat.github.io
